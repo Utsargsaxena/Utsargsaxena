@@ -6,6 +6,7 @@ I'm **Utsarg, a Front-end Developer** from Karnal 🏡,Haryana.
 - 🤔 I’m looking for a peer Coder 🧠 and a mentor 🦸‍♂️.
 - 💬 Ask me about Front-end Development 💻,Astronomy 👽, History ⚔️, Wildlife 🐘 xD etc...
 - 📫 How to reach me:
-- Here's my Linkedin: https://www.linkedin.com/in/utsarg-saxena-305/ 
+- Here's my Linkedin: [Linkedin]
 - That's all for now 😄
  
+ [Linkedin]= https://www.linkedin.com/in/utsarg-saxena-305/ 
