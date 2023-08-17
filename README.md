@@ -1,10 +1,10 @@
 ### Hi there 🖖,
-I'm **Utsarg, a Front-end Developer** from Karnal 🏡,Haryana. 
+I'm **Utsarg, a Front-end Developer** living in Bangalore, Karnataka. 
 
-- 🔭 I’m currently working on being proficient in React.js and building my portfolio using it 🥇.
+- 🔭 I’m currently working on becoming proficient in React.js and working in Infosys as a Digital Specialist Engineer.
 - 🌱 I’m currently learning Back-end technologies to integrate with front-end.
 - 📫 How to reach me:
-- Here's my Linkedin: https://www.linkedin.com/in/utsarg-saxena-305/ 
+- Here's my LinkedIn: https://www.linkedin.com/in/utsarg-saxena-305/ 
 - Below are my skills...
  
 ### Languages and Tools:
