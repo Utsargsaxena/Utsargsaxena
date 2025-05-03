@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utsarg Saxena</h1>
-<h3 align="center">Frontend Developer | React.js Enthusiast | MERN Stack Builder</h3>
+<h3 align="center">Frontend Developer | React.js  | MERN Stack </h3>
 
 ---
 
