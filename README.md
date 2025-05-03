@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 I'm a **Frontend Developer** with **~3 years of experience**, currently working as a **Digital Specialist Engineer at Infosys**  
+- 💼 I'm a **Frontend Developer** with **~3 years of experience**, currently working as a **React Developer at Infosys**  
 - 🚀 Built and deployed **Klyno**, a real-time chat app using the **MERN Stack**, showcasing full-stack proficiency  
 - 💬 Passionate about writing **clean, scalable UI code** and creating seamless **user experiences**  
 - 🛠 Strong in **JavaScript (ES6+), React.js, Redux Toolkit, Zustand, Tailwind CSS, and Web Performance**  
