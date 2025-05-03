@@ -47,15 +47,6 @@ A production-ready full-stack chat app built with the **MERN stack**, featuring:
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utsargsaxena&show_icons=true&theme=react&hide_border=true" alt="Utsarg's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utsargsaxena&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Let’s Connect!
 
 - 📍 Bangalore, India  
